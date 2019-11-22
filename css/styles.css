@@ -6,3 +6,9 @@ h1 {
   font-weight: bolder;
   font-size: 25px;
 }
+.testbox {
+  border: 6px solid red;
+  padding: 10px;
+  margin: 50px;
+  background-color: steelblue;
+}
