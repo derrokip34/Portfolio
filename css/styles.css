@@ -2,3 +2,7 @@ h1 {
   font-weight: bold;
   text-align: justified;
 }
+.head {
+  font-weight: bolder;
+  font-size: 25px;
+}
