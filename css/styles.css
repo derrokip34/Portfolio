@@ -1,6 +1,6 @@
 h1 {
   font-weight: bold;
-  text-align: justified;
+  text-align: center;
 }
 .head {
   font-weight: bolder;
@@ -11,4 +11,7 @@ h1 {
   padding: 10px;
   margin: 50px;
   background-color: steelblue;
+}
+.about {
+  text-align: center;
 }
