@@ -16,6 +16,7 @@ h3 {
 }
 .about {
   float: right;
+  text-align: justify;
 }
 .projects {
   text-align: center;
