@@ -2,9 +2,10 @@ h1 {
   font-weight: bold;
   color: brown;
 }
-.head {
+h3 {
   font-weight: bolder;
   font-size: 25px;
+  color: gold;
 }
 .testbox {
   border: 6px solid red;
@@ -21,6 +22,7 @@ h1 {
 .hobbies {
   text-align: justify;
 }
+
 @media (min-width: 480px) and (max-width: 767px) {
   body{
     backgound-color: black;
