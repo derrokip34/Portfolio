@@ -15,3 +15,12 @@ h1 {
 .about {
   text-align: center;
 }
+.projects {
+  text-align: center;
+}
+@media (min-width: 480px) and (max-width: 767px) {
+  body{
+    backgound-color: black;
+    color: white;
+  }
+}
