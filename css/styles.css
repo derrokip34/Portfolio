@@ -15,7 +15,7 @@ h3 {
   background-color: steelblue;
 }
 .about {
-  text-align: end;
+  float: right;
 }
 .projects {
   text-align: center;
