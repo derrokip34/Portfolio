@@ -20,8 +20,8 @@ This is my portfolio landing page. It contains
 
 #### Open index.html in the browser
 
-## (Link to live site)[https://derrokip34.github.io/Portfolio/]
+## [Link to live site](https://derrokip34.github.io/Portfolio/)
 
 ## Copyright and License info
 
-(MIT license)[]
+[MIT license]()
