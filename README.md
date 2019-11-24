@@ -24,4 +24,4 @@ This is my portfolio landing page. It contains
 
 ## Copyright and License info
 
-[MIT license]()
+[MIT license](https://github.com/derrokip34/Portfolio/blob/master/license.md)
